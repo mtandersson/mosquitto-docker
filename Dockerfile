@@ -1,4 +1,4 @@
-FROM eclipse-mosquitto:2.0.6
+FROM eclipse-mosquitto:2.0.7
 
 
 RUN apk --update upgrade && \
