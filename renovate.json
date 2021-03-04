@@ -7,5 +7,6 @@
     "schedule": ["after 7am every weekday and before 4pm every weekday"]
   },
   "timezone": "Europe/Madrid",
-  "prHourlyLimit": 8
+  "prHourlyLimit": 8,
+  "requiredStatusChecks": null
 }
